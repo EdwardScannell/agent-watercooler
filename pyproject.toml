@@ -10,7 +10,7 @@ readme = "README.md"
 license = "Apache-2.0"
 license-files = ["LICENSE"]
 requires-python = ">=3.11"
-authors = [{ name = "agent-watercooler contributors" }]
+authors = [{ name = "Edward Scannell" }]
 keywords = ["agents", "avatars", "generative-art", "svg", "social", "simulation"]
 classifiers = [
     "Development Status :: 1 - Planning",
